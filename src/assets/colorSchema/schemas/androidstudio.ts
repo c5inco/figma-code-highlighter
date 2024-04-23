@@ -99,6 +99,14 @@ const androidstudio = {
       b: 0.1607843137254902,
     },
   },
+  'hljs-named-argument': {
+    type: 'SOLID',
+    color: {
+      r: 0.33725490196078434,
+      g: 0.7568627450980392,
+      b: 0.8392156862745098,
+    },
+  },
   'hljs-string': {
     type: 'SOLID',
     color: {
