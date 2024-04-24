@@ -51,6 +51,8 @@ const colorSchemaList = [
   'hopscotch',
   'hybrid',
   'idea',
+  'intuidark',
+  'intuilight',
   'irBlack',
   'isblEditorDark',
   'isblEditorLight',

@@ -50,6 +50,8 @@ import gruvboxLight from './schemas/gruvboxLight'
 import hopscotch from './schemas/hopscotch'
 import hybrid from './schemas/hybrid'
 import idea from './schemas/idea'
+import intuidark from './schemas/intuidark'
+import intuilight from './schemas/intuilight'
 import irBlack from './schemas/irBlack'
 import isblEditorDark from './schemas/isblEditorDark'
 import isblEditorLight from './schemas/isblEditorLight'
@@ -142,6 +144,8 @@ export {
   hopscotch,
   hybrid,
   idea,
+  intuidark,
+  intuilight,
   irBlack,
   isblEditorDark,
   isblEditorLight,
